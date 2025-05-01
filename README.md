@@ -1,4 +1,5 @@
-Keycloak Integration with Spring Boot 3
+#Keycloak Integration with Spring Boot 3
+
 This project demonstrates how to secure a Spring Boot application using Keycloak, a powerful open-source Identity and Access Management tool.
 
 Features
@@ -14,9 +15,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 Installation
 Clone the repository:
-git clone git@github.com:ali-bouali/keycloak-integration-with-spring-boot-3.git
+
 Navigate into the project directory:
 cd your-repository-name
+
 Use Maven to build the project:
 mvn clean install
 You can then run the Spring Boot application using:
